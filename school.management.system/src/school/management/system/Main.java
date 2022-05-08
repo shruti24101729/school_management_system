@@ -31,7 +31,7 @@ public class Main {
 		System.out.print(scl.getTotalMoneyEarned());
 	
 		t1.receiveSalary(t1.getSalary());
-		System.out.println(t1.getName()+"has"+ scl.getTotalMoneyEarned());
+		System.out.print(t1.getName()+"has"+ scl.getTotalMoneyEarned());
 		
 
 	}

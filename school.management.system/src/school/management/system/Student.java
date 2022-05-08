@@ -26,11 +26,6 @@ public class Student {
 		return grade;
 		
 	}
-	@Override
-	public String toString() {
-		// TODO Auto-generated method stub
-		return name+"has paid"+feesPaid;
-	}
 	public int getfeesPaid() {
 		return feesPaid;
 	}

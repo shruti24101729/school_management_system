@@ -53,7 +53,7 @@ public class School {
 	}
 
 
-	public static  void updateTotalMoneySpent(int MoneySpent) {
+	public void updateTotalMoneySpent(int MoneySpent) {
 		totalMoneyEarned-=MoneySpent;
 	}
 
